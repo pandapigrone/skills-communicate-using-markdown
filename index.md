@@ -9,4 +9,4 @@ Lorem ipsum quam dolor
 Lorem ipsum quam dolor
 ###### H6 Header
 Lorem ipsum quam dolor  
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png, Image of Yaktocat)  
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png "Image of Yaktocat")  
