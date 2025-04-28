@@ -1,0 +1,9 @@
+  ```markdown
+    ```mermaid
+    graph TD
+        A[Inizio] --> B{Condizione?};
+        B -- Si --> C[Azione 1];
+        B -- No --> D[Azione 2];
+        C --> E[Fine];
+        D --> E;
+    ```
